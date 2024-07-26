@@ -2,9 +2,9 @@
 
 /**
  * binary_tree_inorder - goes through a binary tree using
- * in-order traversal method
+ * in-order traversal
  *
- * @: tree root
+ * @tree: tree root
  * @func: pointer to a function to call for each node
  * Return: no return
  */
